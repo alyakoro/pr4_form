@@ -59,7 +59,8 @@
                         android:layout_height="wrap_content"
                         android:ems="10"
                         android:inputType="text"
-                        android:text="NAME" />
+                        android:text="NAME"
+                        style="@style/text_1"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -80,7 +81,8 @@
                         android:layout_height="wrap_content"
                         android:ems="10"
                         android:inputType="text"
-                        android:text="LAST NAME" />
+                        android:text="LAST NAME"
+                        style="@style/text_1"/>
                 </LinearLayout>
             </LinearLayout>
 
@@ -117,7 +119,8 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="phone"
-                android:text="PHONE" />
+                android:text="PHONE"
+                style="@style/text_1"/>
         </LinearLayout>
 
         <LinearLayout
